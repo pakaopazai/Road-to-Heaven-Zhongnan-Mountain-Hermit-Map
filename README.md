@@ -16,3 +16,5 @@ This project visualizes the hermit sites visited by Bill Porter (Red Pine) in hi
 
 # Prerequisites
 Make sure you have R (4.0+) installed on your system.
+
+ <img width="1800" height="1400" alt="bp_map" src="https://github.com/user-attachments/assets/dd7d0372-9a7c-4941-a555-efc20bcb9ec1" />
